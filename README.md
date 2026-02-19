@@ -1,67 +1,37 @@
-<div align="center" width="50">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=youssef-haytham.youssef-haytham">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There;This+is+Youssef+Haytham;Computer+Science+Student;Data+Analysis+Track&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" title="LinkedIn Profile">LinkedIn</a></code>
+  <code><a href="mailto:your_email@example.com" title="Email">Email</a></code>
+  <code><a href="https://t.me/YOUR_TELEGRAM_USERNAME" title="Telegram">Telegram</a></code>
+</h5>
+
 <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
-<h2>hi there , My Name Youssef Haytham</h2>
-<h3>Computer Science Student | Data Analysis Track</h3>
-
-</div>
+<p align="center">
+  Hi, I'm Youssef Haytham, a Computer Science student specializing in Data Analysis.
+  <br><br>
+  I am currently studying at the Faculty of Computers and Information.
+  <br>
+  My main focus is Data Analysis, Problem Solving, and Backend Development.
+  <br>
+  I work with C#, Python, PostgreSQL, and Excel for building analytical solutions.
+  <br>
+  I am building a strong foundation in Data Structures & Algorithms using C#.
+  <br>
+  I use Python libraries such as Pandas and NumPy for data manipulation and analysis.
+  <br>
+  I also have experience with HTML, CSS, and JavaScript.
+  <br>
+  I am continuously improving my technical skills and working on practical projects.
+  <br>
+  You can reach me via LinkedIn, Email, or Telegram.
+</p>
 
 <hr>
-
-## About Me
-
-I am a Computer Science student specializing in Data Analysis.  
-I am focused on building strong foundations in programming, data structures, and analytical thinking.  
-Currently working on improving my skills in data manipulation, databases, and backend development.
-
----
-
-## Tools & Technologies
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-
----
-
-## Technical Profile
-
-```csharp
-public class YoussefHaytham
-{
-    public string Track = "Data Analysis";
-
-    public List<string> ProgrammingLanguages = new List<string>
-    {
-        "C#",
-        "Python",
-        "Assembly",
-        "Arduino Language",
-        "JavaScript"
-    };
-
-    public List<string> DataTools = new List<string>
-    {
-        "Excel",
-        "PostgreSQL",
-        "Pandas",
-        "NumPy"
-    };
-
-    public List<string> WebTechnologies = new List<string>
-    {
-        "HTML",
-        "CSS"
-    };
-}
