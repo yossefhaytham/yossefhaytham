@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There;This+is+Youssef+Haytham;Computer+Science+Student;Data+Analysis+Track&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There;This+is+Youssef+Haytham;Data+Analysis;I+Build+Things&center=true&size=30">
   </a>
 </h1>
 
@@ -15,23 +15,29 @@
 <br>
 
 <p align="center">
-  Hi, I'm Youssef Haytham, a Computer Science student specializing in Data Analysis.
+  I am a student at the Faculty of Computers and Information.
   <br><br>
-  I am currently studying at the Faculty of Computers and Information.
+  I specialize in Data Analysis and I truly enjoy working with data.
   <br>
-  My main focus is Data Analysis, Problem Solving, and Backend Development.
+  I focus on transforming complex data into clear, understandable insights.
   <br>
-  I work with C#, Python, PostgreSQL, and Excel for building analytical solutions.
-  <br>
-  I am building a strong foundation in Data Structures & Algorithms using C#.
-  <br>
-  I use Python libraries such as Pandas and NumPy for data manipulation and analysis.
-  <br>
-  I also have experience with HTML, CSS, and JavaScript.
-  <br>
-  I am continuously improving my technical skills and working on practical projects.
-  <br>
-  You can reach me via LinkedIn, Email, or Telegram.
+  I build analytical solutions using modern tools and strong programming foundations.
+</p>
+
+<br>
+
+<h3 align="center">Core Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
 </p>
 
 <hr>
