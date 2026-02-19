@@ -6,11 +6,11 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" title="LinkedIn Profile">LinkedIn</a></code>
-  <code><a href="mailto:your_email@example.com" title="Email">Email</a></code>
-  <code><a href="https://t.me/YOUR_TELEGRAM_USERNAME" title="Telegram">Telegram</a></code>
-</h5>
+<h4 align="center">
+  <code><a href="https://www.linkedin.com/in/yossefhaythammohammed" title="LinkedIn Profile">LinkedIn</a></code>
+  <code><a href="mailto:yossefhaytham700@gmail.com" title="Email">Email</a></code>
+  <code><a href="https://t.me/@Phoenix_327" title="Telegram">Telegram</a></code>
+</h4>
 
 <br>
 
