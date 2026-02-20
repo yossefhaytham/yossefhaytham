@@ -72,6 +72,7 @@
   <img src="https://img.shields.io/badge/OOP-Object_Oriented_Programming-blue?style=flat">
   <img src="https://img.shields.io/badge/DSA-Data_Structures_&_Algorithms-green?style=flat">
   <img src="https://img.shields.io/badge/OS-Operating_Systems-orange?style=flat">
+  <img src="https://img.shields.io/badge/Arch-Computer_Architecture-red?style=flat">
 </p>
 
 <hr>
