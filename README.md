@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <a href="./resume/Youssef_Haytham_CV.pdf" download>
+  <a href="./resume/Yossef_haytham_CV.pdf" download>
     <img src="https://img.shields.io/badge/DOWNLOAD%20MY%20RESUME-64FFDA?style=for-the-badge&logo=adobeacrobatreader&logoColor=0A192F&labelColor=0A192F" height="70" alt="Download my Resume" />
   </a>
 </p>
