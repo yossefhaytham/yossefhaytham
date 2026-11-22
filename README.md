@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:64FFDA&height=200&section=header&text=Youssef%20Haytham&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Data%20Analyst&descSize=20&descColor=64FFDA&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:64FFDA&height=200&section=header&text=Yossef%20Haytham&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Data%20Analyst&descSize=20&descColor=64FFDA&descAlignY=58" alt="header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
